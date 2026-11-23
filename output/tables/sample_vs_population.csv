@@ -1,0 +1,13 @@
+"variable","level","sample_pct","population_pct"
+"Age group","20-39",34,36.2
+"Age group","40-59",33.2,38.3
+"Age group","60+",32.7,25.5
+"Race/ethnicity","Non-Hispanic White",43,67.6
+"Race/ethnicity","Non-Hispanic Black",21.8,11.3
+"Race/ethnicity","Mexican American",14.4,8.2
+"Race/ethnicity","Other Hispanic",10.1,5.7
+"Race/ethnicity","Other / multiracial",10.7,7.2
+"Income-to-poverty ratio","< 1",23.4,15.8
+"Income-to-poverty ratio","1 to < 2",26.9,20.6
+"Income-to-poverty ratio","2 to < 4",24.9,28
+"Income-to-poverty ratio",">= 4",24.9,35.6

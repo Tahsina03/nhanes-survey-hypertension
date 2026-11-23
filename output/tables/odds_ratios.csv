@@ -1,0 +1,33 @@
+"term_label","model","OR","lower","upper","se_logOR"
+"Age 40-59 (vs 20-39)","Survey-weighted (svyglm)",2.34,2.01,2.72,0.076
+"Age 60+ (vs 20-39)","Survey-weighted (svyglm)",4.15,3.58,4.81,0.075
+"Male (vs female)","Survey-weighted (svyglm)",1.59,1.37,1.84,0.075
+"Non-Hispanic Black (vs White)","Survey-weighted (svyglm)",1.49,1.28,1.73,0.077
+"Mexican American (vs White)","Survey-weighted (svyglm)",0.85,0.72,1.01,0.087
+"Other Hispanic (vs White)","Survey-weighted (svyglm)",0.91,0.74,1.13,0.109
+"Other / multiracial (vs White)","Survey-weighted (svyglm)",1.06,0.88,1.27,0.093
+"Underweight (vs normal BMI)","Survey-weighted (svyglm)",0.6,0.39,0.92,0.218
+"Overweight (vs normal BMI)","Survey-weighted (svyglm)",1.28,1.07,1.53,0.092
+"Obese (vs normal BMI)","Survey-weighted (svyglm)",1.81,1.6,2.06,0.065
+"Income/poverty < 1 (vs >= 4)","Survey-weighted (svyglm)",1.26,1.07,1.49,0.083
+"Income/poverty 1 to < 2 (vs >= 4)","Survey-weighted (svyglm)",1.23,1.03,1.45,0.086
+"Income/poverty 2 to < 4 (vs >= 4)","Survey-weighted (svyglm)",1.24,1.05,1.46,0.085
+"Ever smoked 100 cigarettes","Survey-weighted (svyglm)",1.04,0.94,1.15,0.052
+"Not physically active","Survey-weighted (svyglm)",1.05,0.95,1.17,0.053
+"Diabetes","Survey-weighted (svyglm)",1.07,0.92,1.25,0.077
+"Age 40-59 (vs 20-39)","Unweighted (glm)",2.49,2.23,2.79,0.058
+"Age 60+ (vs 20-39)","Unweighted (glm)",4.7,4.17,5.3,0.061
+"Male (vs female)","Unweighted (glm)",1.62,1.48,1.77,0.046
+"Non-Hispanic Black (vs White)","Unweighted (glm)",1.46,1.31,1.64,0.058
+"Mexican American (vs White)","Unweighted (glm)",0.88,0.76,1.01,0.071
+"Other Hispanic (vs White)","Unweighted (glm)",0.94,0.8,1.1,0.081
+"Other / multiracial (vs White)","Unweighted (glm)",1.14,0.98,1.33,0.079
+"Underweight (vs normal BMI)","Unweighted (glm)",0.79,0.54,1.15,0.194
+"Overweight (vs normal BMI)","Unweighted (glm)",1.17,1.04,1.31,0.059
+"Obese (vs normal BMI)","Unweighted (glm)",1.68,1.5,1.88,0.059
+"Income/poverty < 1 (vs >= 4)","Unweighted (glm)",1.3,1.14,1.49,0.068
+"Income/poverty 1 to < 2 (vs >= 4)","Unweighted (glm)",1.2,1.06,1.36,0.064
+"Income/poverty 2 to < 4 (vs >= 4)","Unweighted (glm)",1.17,1.03,1.32,0.064
+"Ever smoked 100 cigarettes","Unweighted (glm)",0.97,0.89,1.07,0.046
+"Not physically active","Unweighted (glm)",1.04,0.95,1.14,0.047
+"Diabetes","Unweighted (glm)",1.07,0.94,1.22,0.065

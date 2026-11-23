@@ -1,0 +1,17 @@
+"term","se_svy","se_glm","ratio"
+"Age 40-59 (vs 20-39)",0.076,0.058,1.31
+"Age 60+ (vs 20-39)",0.075,0.061,1.23
+"Male (vs female)",0.075,0.046,1.63
+"Non-Hispanic Black (vs White)",0.077,0.058,1.33
+"Mexican American (vs White)",0.087,0.071,1.22
+"Other Hispanic (vs White)",0.109,0.081,1.35
+"Other / multiracial (vs White)",0.093,0.079,1.17
+"Underweight (vs normal BMI)",0.218,0.194,1.12
+"Overweight (vs normal BMI)",0.092,0.059,1.54
+"Obese (vs normal BMI)",0.065,0.059,1.1
+"Income/poverty < 1 (vs >= 4)",0.083,0.068,1.22
+"Income/poverty 1 to < 2 (vs >= 4)",0.086,0.064,1.35
+"Income/poverty 2 to < 4 (vs >= 4)",0.085,0.064,1.33
+"Ever smoked 100 cigarettes",0.052,0.046,1.12
+"Not physically active",0.053,0.047,1.14
+"Diabetes",0.077,0.065,1.2

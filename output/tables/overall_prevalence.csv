@@ -1,0 +1,4 @@
+"approach","prevalence_pct","se_pct","ci95"
+"Unweighted (simple random sample assumption)",38.2,0.47,"37.3 to 39.1"
+"Weighted, ignoring strata and PSUs",35,0.6,"33.8 to 36.2"
+"Weighted, full complex design",35,0.92,"33.2 to 36.8"
